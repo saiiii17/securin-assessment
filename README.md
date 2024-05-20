@@ -1,8 +1,8 @@
 # Securin-assessment
 
 Part A)
-1. How many total combinations are possible? Show the math along with the code! 
-2. Calculate and display the distribution of all possible combinations that can be obtained when rolling both Die A and Die B together. Show the math along with the code! 
+1. How many total combinations are possible? 
+2. Calculate and display the distribution of all possible combinations that can be obtained when rolling both Die A and Die B together. 
 3. Calculate the Probability of all Possible Sums occurring among the number of combinations from (2).
 
 Output Screenshots:
