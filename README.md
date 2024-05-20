@@ -1,6 +1,7 @@
 # Securin-assessment
 
 Part A)
+You are given two six-sided dice, Die A and Die B, each with faces numbered from 1 to 6. You can only roll both the dice together & your turn is guided by the obtained sum.
 1. How many total combinations are possible? 
 2. Calculate and display the distribution of all possible combinations that can be obtained when rolling both Die A and Die B together. 
 3. Calculate the Probability of all Possible Sums occurring among the number of combinations from (2).
